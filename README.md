@@ -17,3 +17,5 @@ composer.json 파일에 다음과 같이 추가
 또는
 
     # composer require bjm/package_test
+
+test

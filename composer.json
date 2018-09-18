@@ -1,0 +1,19 @@
+{
+    "name": "bjm/package_test",
+    "authors": [
+        {
+            "name": "bjm",
+            "email": "wood08@hotmail.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "BJM\\PackagesTest\\": "src/"
+        }
+    },
+	"require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "^4.0|^5.0"
+    }
+}

@@ -49,3 +49,10 @@ laravel package 만들기 테스트
 
 수정사항 반영 방법 (버전올리기)
 ------------------
+수정 후
+
+        # git commit
+        # git push
+        # git tag -a [버전] -m [코멘트]
+            ex) git tag -a 1.0.1 -m '버전 업 관련 설명 추가'
+ * git tag -l -n 으로 tag 확인 가능
